@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Monsterdle</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="contenedor">
+    <h1>🎃 Monsterdle 🎃</h1>
+
+    <div class="entrada">
+      <input type="text" id="InputNombre" placeholder="Escribí un personaje..." autocomplete="off" />
+      <div id="sugerencias"></div>
+      <button onclick="ConsultarPersonaje()">Intentar</button>
+      <button id="reiniciarBtn">Reiniciar</button>
+    </div>
+
+    <div id="acierto" class="mensaje"></div>
+    <div id="resultados" class="historial"></div>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>

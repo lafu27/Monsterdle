@@ -1,0 +1,149 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1e1e2f;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.contenedor {
+  max-width: 600px;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: #f0a;
+  margin-bottom: 20px;
+}
+
+.entrada {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+#InputNombre {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  font-size: 16px;
+  width: 100%;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #f0a;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+button:hover {
+  background-color: #d08;
+  transform: scale(1.05);
+}
+
+#sugerencias {
+  background: #fff;
+  color: #000;
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  max-height: 150px;
+  overflow-y: auto;
+  z-index: 1000;
+}
+
+.sugerencia {
+  padding: 8px 12px;
+  cursor: pointer;
+  border-bottom: 1px solid #ccc;
+}
+
+.sugerencia:hover {
+  background-color: #eee;
+}
+
+.mensaje {
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 18px;
+  transition: all 0.3s;
+}
+
+.fila {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+  justify-content: center;
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.cuadro {
+  padding: 10px;
+  min-width: 80px;
+  text-align: center;
+  border-radius: 6px;
+  font-weight: bold;
+  background-color: #444;
+  color: white;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.correcto {
+  background-color: #4caf50;
+}
+
+.incorrecto {
+  background-color: #f44336;
+}
+
+.historial {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.imagen-personaje {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  animation: slideUp 0.5s ease forwards;
+  opacity: 0;
+}
+
+.imagen-personaje img {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  transition: transform 0.4s;
+}
+
+.imagen-personaje img:hover {
+  transform: scale(1.03);
+}
+
+@keyframes slideUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+}

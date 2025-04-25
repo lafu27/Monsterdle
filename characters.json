@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "name": "Draculaura",
+        "species": "Vampiro",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Rosa y negro",
+        "year": 2010,
+        "image": "img/draculaura.png"
+    },
+    {
+        "id": 2,
+        "name": "Frankie Stein",
+        "species": "Monstruo creado",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Verde y negro",
+        "year": 2010,
+        "image": "img/frankie.png"
+    },
+    {
+        "id": 3,
+        "name": "Valentin",
+        "species": "Vampiro",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Rojo y negro",
+        "year": 2010,
+        "image": "img/valentin.png"
+    },
+    {
+        "id": 4,
+        "name": "Clawdeen Wolf",
+        "species": "Hombre lobo",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Morado y dorado",
+        "year": 2010,
+        "image": "img/clawdeen.png"
+    },
+    {
+        "id": 5,
+        "name": "Ghoulia Yelps",
+        "species": "Zombi",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Azul y rojo",
+        "year": 2010,
+        "image": "img/ghoulia.png"
+    },
+    {
+        "id": 6,
+        "name": "Lagoona Blue",
+        "species": "Sirena",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Azul y verde",
+        "year": 2010,
+        "image": "img/lagoona.png"
+    },
+    {
+        "id": 7,
+        "name": "Cleo de Nile",
+        "species": "Momia",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Amarillo y azul",
+        "year": 2010,
+        "image": "img/cleo.png"
+    },
+    {
+        "id": 8,
+        "name": "Deuce Gorgon",
+        "species": "Medusa",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Verde y negro",
+        "year": 2010,
+        "image": "img/deuce.png"
+    },
+    {
+        "id": 9,
+        "name": "Jackson Jekyll",
+        "species": "Humano",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Negro y gris",
+        "year": 2010,
+        "image": "img/jackson.png"
+    },
+    {
+        "id": 10,
+        "name": "Holt Hyde",
+        "species": "Híbrido (Jackson Jekyll)",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Rojo y negro",
+        "year": 2010,
+        "image": "img/holt.png"
+    },
+    {
+        "id": 11,
+        "name": "Abbey Bominable",
+        "species": "Yeti",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Blanco y celeste",
+        "year": 2010,
+        "image": "img/abbey.png"
+    },
+    {
+        "id": 12,
+        "name": "Operetta",
+        "species": "Fantasma",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Rojo y negro",
+        "year": 2011,
+        "image": "img/operetta.png"
+    },
+    {
+        "id": 13,
+        "name": "Nefera de Nile",
+        "species": "Momia",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Dorado y negro",
+        "year": 2011,
+        "image": "img/nefera.png"
+    },
+    {
+        "id": 14,
+        "name": "Sibella",
+        "species": "Fantasma",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Blanco y morado",
+        "year": 2011,
+        "image": "img/sibella.png"
+    },
+    {
+        "id": 15,
+        "name": "Heath Burns",
+        "species": "Espectro de fuego",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Naranja y rojo",
+        "year": 2011,
+        "image": "img/heath.png"
+    },
+    {
+        "id": 16,
+        "name": "Scarrah Screams",
+        "species": "Fantasma",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Morado y rosa",
+        "year": 2011,
+        "image": "img/scarrah.png"
+    },
+    {
+        "id": 17,
+        "name": "Toralei Stripe",
+        "species": "Tigre",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Naranja y negro",
+        "year": 2011,
+        "image": "img/toralei.png"
+    },
+    {
+        "id": 18,
+        "name": "Purrsephone",
+        "species": "Gata demonio",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Morado y gris",
+        "year": 2012,
+        "image": "img/purrsephone.png"
+    },
+    {
+        "id": 19,
+        "name": "Meowlody",
+        "species": "Gata demonio",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Negro y rosa",
+        "year": 2012,
+        "image": "img/meowlody.png"
+    },
+    {
+        "id": 20,
+        "name": "Viperine Gorgon",
+        "species": "Medusa",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Verde y morado",
+        "year": 2013,
+        "image": "img/viperine.png"
+    },
+    {
+        "id": 21,
+        "name": "Catrine DeMew",
+        "species": "Gata",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Rosa y blanco",
+        "year": 2013,
+        "image": "img/catrine.png"
+    },
+    {
+        "id": 22,
+        "name": "Kiyomi Haunterly",
+        "species": "Fantasma",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Morado y rosa",
+        "year": 2014,
+        "image": "img/kiyomi.png"
+    },
+    {
+        "id": 23,
+        "name": "Elizabeth",
+        "species": "Vampiro",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Negro y plateado",
+        "year": 2015,
+        "image": "img/elizabeth.png"
+    },
+    {
+        "id": 24,
+        "name": "Jane Boolittle",
+        "species": "Chamana",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Morado y azul",
+        "year": 2014,
+        "image": "img/jane.png"
+    },
+    {
+        "id": 25,
+        "name": "Gigi Grant",
+        "species": "Genio",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Rosa y dorado",
+        "year": 2013,
+        "image": "img/gigi.png"
+    },
+    {
+        "id": 26,
+        "name": "Twyla",
+        "species": "Pesadilla",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Azul y violeta",
+        "year": 2013,
+        "image": "img/twyla.png"
+    },
+    {
+        "id": 27,
+        "name": "Honey Swamp",
+        "species": "Monstruo pantanoso",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Verde y celeste",
+        "year": 2014,
+        "image": "img/honey.png"
+    },
+    {
+        "id": 28,
+        "name": "Clawdia Wolf",
+        "species": "Hombre lobo",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Rojo y amarillo",
+        "year": 2014,
+        "image": "img/clawdia.png"
+    },
+    {
+        "id": 29,
+        "name": "Lorna McNessie",
+        "species": "Monstruo del lago",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Verde y rojo",
+        "year": 2014,
+        "image": "img/lorna.png"
+    },
+    {
+        "id": 30,
+        "name": "Marisol Coxi",
+        "species": "Pie grande",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Rosa y verde",
+        "year": 2015,
+        "image": "img/marisol.png"
+    },
+    {
+        "id": 31,
+        "name": "Isi Dawndancer",
+        "species": "Espíritu ciervo",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Turquesa y morado",
+        "year": 2015,
+        "image": "img/isi.png"
+    },
+    {
+        "id": 32,
+        "name": "Kala Mer'ri",
+        "species": "Monstruo marino",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Negro y rosa",
+        "year": 2016,
+        "image": "img/kala.png"
+    },
+    {
+        "id": 33,
+        "name": "Peri & Pearl Serpentine",
+        "species": "Sirena de dos cabezas",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Azul y violeta",
+        "year": 2016,
+        "image": "img/peri_pearl.png"
+    },
+    {
+        "id": 34,
+        "name": "Mouscedes King",
+        "species": "Rata",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Gris y rosa",
+        "year": 2015,
+        "image": "img/mouscedes.png"
+    },
+    {
+        "id": 35,
+        "name": "Wydowna Spider",
+        "species": "Araña",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Negro y rojo",
+        "year": 2013,
+        "image": "img/wydowna.png"
+    },
+    {
+        "id": 36,
+        "name": "Avea Trotter",
+        "species": "Centauro",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Azul y púrpura",
+        "year": 2014,
+        "image": "img/avea.png"
+    },
+    {
+        "id": 37,
+        "name": "Bonita Femur",
+        "species": "Esqueleto polilla",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Rosa y negro",
+        "year": 2014,
+        "image": "img/bonita.png"
+    },
+    {
+        "id": 38,
+        "name": "Sirena Von Boo",
+        "species": "Fantasma sirena",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Celeste y negro",
+        "year": 2014,
+        "image": "img/sirena.png"
+    },
+    {
+        "id": 39,
+        "name": "Neighthan Rot",
+        "species": "Zombi unicornio",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Verde y rojo",
+        "year": 2014,
+        "image": "img/neighthan.png"
+    },
+    {
+        "id": 40,
+        "name": "Zomby Gaga",
+        "species": "Zombi",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Rosa y negro",
+        "year": 2016,
+        "image": "img/zomby_gaga.png"
+    },
+    {
+        "id": 41,
+        "name": "Elle Eedee",
+        "species": "Robot DJ",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Plateado y violeta",
+        "year": 2015,
+        "image": "img/elle.png"
+    },
+    {
+        "id": 42,
+        "name": "Gooliope Jellington",
+        "species": "Monstruo gigante",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Rosa y dorado",
+        "year": 2015,
+        "image": "img/gooliope.png"
+    },
+    {
+        "id": 43,
+        "name": "Moanica D'Kay",
+        "species": "Zombi",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Verde y gris",
+        "year": 2016,
+        "image": "img/moanica.png"
+    },
+    {
+        "id": 44,
+        "name": "Amanita Nightshade",
+        "species": "Planta maldita",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Verde y violeta",
+        "year": 2015,
+        "image": "img/amanita.png"
+    },
+    {
+        "id": 45,
+        "name": "Kjersti Trollson",
+        "species": "Trol",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Azul y rosa",
+        "year": 2015,
+        "image": "img/kjersti.png"
+    },
+    {
+        "id": 46,
+        "name": "Vandala Doubloons",
+        "species": "Fantasma pirata",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Verde menta y blanco",
+        "year": 2015,
+        "image": "img/vandala.png"
+    },
+    {
+        "id": 47,
+        "name": "Clawd Wolf",
+        "species": "Hombre lobo",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Marrón y rojo",
+        "year": 2010,
+        "image": "img/clawd.png"
+    },
+    {
+        "id": 48,
+        "name": "Billy Phaidin",
+        "species": "Fantasma",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Transparente y azul",
+        "year": 2016,
+        "image": "img/billy.png"
+    },
+    {
+        "id": 49,
+        "name": "Andy Beast",
+        "species": "Bestia",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Marrón y dorado",
+        "year": 2016,
+        "image": "img/andy.png"
+    },
+    {
+        "id": 50,
+        "name": "Veronica Von Vamp",
+        "species": "Vampiro",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Rojo y negro",
+        "year": 2022,
+        "image": "img/veronica.png"
+    }
+  ]
