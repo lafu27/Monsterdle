@@ -498,5 +498,205 @@
         "color": "Rojo y negro",
         "year": 2022,
         "image": "img/veronica.png"
+    },
+    {
+        "id": 51,
+        "name": "Spectra Vondergeist",
+        "species": "Fantasma",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Púrpura y azul",
+        "year": 2011,
+        "image": "img/spectra.png"
+    },
+    {
+        "id": 52,
+        "name": "Robecca Steam",
+        "species": "Robot",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Cobre y azul",
+        "year": 2012,
+        "image": "img/robecca.png"
+    },
+    {
+        "id": 53,
+        "name": "Venus McFlytrap",
+        "species": "Planta carnívora",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Verde y rosa",
+        "year": 2012,
+        "image": "img/venus.png"
+    },
+    {
+        "id": 54,
+        "name": "Rochelle Goyle",
+        "species": "Gárgola",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Rosa y negro",
+        "year": 2012,
+        "image": "img/rochelle.png"
+    },
+    {
+        "id": 55,
+        "name": "Jinafire Long",
+        "species": "Dragón",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Verde y dorado",
+        "year": 2012,
+        "image": "img/jinafire.png"
+    },
+    {
+        "id": 56,
+        "name": "Skelita Calaveras",
+        "species": "Esqueleto",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Blanco y naranja",
+        "year": 2012,
+        "image": "img/skelita.png"
+    },
+    {
+        "id": 57,
+        "name": "Catty Noir",
+        "species": "Gata",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Negro y rosa",
+        "year": 2013,
+        "image": "img/catty.png"
+    },
+    {
+        "id": 58,
+        "name": "Howleen Wolf",
+        "species": "Hombre lobo",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Naranja y púrpura",
+        "year": 2011,
+        "image": "img/howleen.png"
+    },
+    {
+        "id": 59,
+        "name": "Elissabat",
+        "species": "Vampiro",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Púrpura y negro",
+        "year": 2014,
+        "image": "img/elissabat.png"
+    },
+    {
+        "id": 60,
+        "name": "Invisi Billy",
+        "species": "Hombre invisible",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Azul y blanco",
+        "year": 2013,
+        "image": "img/invisi_billy.png"
+    },
+    {
+        "id": 61,
+        "name": "Scarah Screams",
+        "species": "Banshee",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Verde y negro",
+        "year": 2012,
+        "image": "img/scarah.png"
+    },
+    {
+        "id": 62,
+        "name": "Gilda Goldstag",
+        "species": "Ciervo dorado",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Dorado y verde",
+        "year": 2015,
+        "image": "img/gilda.png"
+    },
+    {
+        "id": 63,
+        "name": "River Styxx",
+        "species": "Hija de la muerte",
+        "gender": "Mujer",
+        "pet": "si",
+        "color": "Celeste y negro",
+        "year": 2015,
+        "image": "img/river.png"
+    },
+    {
+        "id": 64,
+        "name": "Porter Geiss",
+        "species": "Poltergeist",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Azul y negro",
+        "year": 2015,
+        "image": "img/porter.png"
+    },
+    {
+        "id": 65,
+        "name": "Draculogan",
+        "species": "Vampiro",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Negro y rojo",
+        "year": 2022,
+        "image": "img/draculogan.png"
+    },
+    {
+        "id": 66,
+        "name": "Casta Fierce",
+        "species": "Bruja",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Dorado y negro",
+        "year": 2014,
+        "image": "img/casta.png"
+    },
+    {
+        "id": 67,
+        "name": "Finnegan Wake",
+        "species": "Tritón",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Verde y azul",
+        "year": 2015,
+        "image": "img/finnegan.png"
+    },
+    {
+        "id": 68,
+        "name": "Sloman Mortavitch",
+        "species": "Zombi",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Verde y gris",
+        "year": 2016,
+        "image": "img/sloman.png"
+    },
+    {
+        "id": 69,
+        "name": "Garrott DuRoque",
+        "species": "Gárgola",
+        "gender": "Hombre",
+        "pet": "no",
+        "color": "Gris y azul",
+        "year": 2014,
+        "image": "img/garrott.png"
+    },
+    {
+        "id": 70,
+        "name": "Luna Mothews",
+        "species": "Polilla",
+        "gender": "Mujer",
+        "pet": "no",
+        "color": "Morado y rosa",
+        "year": 2016,
+        "image": "img/luna.png"
     }
   ]
